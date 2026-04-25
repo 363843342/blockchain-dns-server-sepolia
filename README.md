@@ -1,13 +1,6 @@
 # blockchain-dns-server-sepolia
 stem from ayls/blockchain-dns-server
 
-# Blockchain DNS Server Setup Guide
-
-**Exported:** 4/25/2026 1:12:53  
-**Link:** [https://gemini.google.com/app/2c62ddcc1f0dc017](https://gemini.google.com/app/2c62ddcc1f0dc017)
-
-## Response:
-Blockchain DNS Server (Sepolia Update)
 ======================================
 
 This project is a modified version of the 
