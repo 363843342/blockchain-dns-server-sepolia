@@ -88,7 +88,7 @@ geth account new --datadir .
 
 ### 2\. 部署智能合约
 
-1.  **获取私钥**：修改 `extract_key.go` 中的路径和密码，运行 `go run extract_key.go` 获取私钥明文，并填入 `.env` 的 `PRIVKEY` 。
+1.  **获取私钥**：在项目根目录/blockchain-dns-server，用文本编辑器打开并修改 `extract_key.go` 中的路径 `keyPath := "config/keystore/UTC--xxx`和密码`password := "xxx"`，运行 `go run extract_key.go` 获取私钥明文，并填入 `.env` 的 `PRIVKEY` 。
 2.  **编译合约**：
     ```
     cd blockchain-contract/dnsrecord
