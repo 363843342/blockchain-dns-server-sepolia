@@ -105,7 +105,7 @@ geth account new --datadir .
     abigen --abi=dnsrecord/build/InetDnsRecord.abi --bin=dnsrecord/build/InetDnsRecord.bin --pkg=dnsrecord --out=dnsrecord/inet-dns-record.go
     ```
 4.  **Deploy:** Ensure your address has Sepolia ETH (get some from a 
-    [faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+    [Google Ethereum Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
     ). Update `deploy.go` with your RPC and Private Key, then:
     ```
     cd dnsrecord/deploy
