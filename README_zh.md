@@ -64,8 +64,8 @@ CONTRACTADDR=""
 # RPC 地址
 GATEWAY="https://ethereum-sepolia-rpc.publicnode.com"
 DATA_GATEWAY="https://ethereum-sepolia-rpc.publicnode.com"
-# PROOF_GATEWAY 与 DATA_GATEWAY 建议使用不同的 Sepolia RPC 链接
-PROOF_GATEWAY="https://ethereum-sepolia-rpc.publicnode.com" [cite: 2]
+# PROOF_GATEWAY 与 DATA_GATEWAY 需要使用不同的 Sepolia RPC 链接，不然怎么叫验证呢？
+PROOF_GATEWAY="https://ethereum-sepolia-rpc.publicnode.com" 
 EVENT_GATEWAY="wss://ethereum-sepolia-rpc.publicnode.com"
 PRIVKEY=""
 KEYSTOREFILE=""
