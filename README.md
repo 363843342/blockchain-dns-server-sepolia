@@ -123,6 +123,7 @@ go run main.go
 *   **Option 1:** Register a new domain.
 *   **Option 2:** Add an IP record (e.g., Type: `A`, Domain: `test.com`, IP: `1.2.3.4`).
 *   **Option 3:** Verify the record.
+*   Ctrl+c exit
 
 ### 4\. Start the DNS Server
 
