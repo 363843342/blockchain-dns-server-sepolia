@@ -89,7 +89,7 @@ geth account new --datadir .
 
 ### 2\. Deploy Smart Contract
 
-1.  **Extract Private Key:** Update `extract_key.go` with your keystore path and password, then run:
+1. ** Get the PRIVKEY key * *: In the project root directory /blockchain-dns-server, open and modify the `extract_key.go` , the path `key path: = "config/keystore/UTC-XXX'` and the password `password := "xxx" ` , then run:
     ```
     go run extract_key.go
     ```
