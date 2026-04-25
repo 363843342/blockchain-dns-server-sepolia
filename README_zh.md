@@ -26,7 +26,7 @@ Blockchain DNS Server (Sepolia 升级版)
 项目运行至少需要两个可用的 Sepolia RPC 链接 ：
 
 *   **私人节点**：前往 
-    [MetaMask Developer (Infura)](https://developer.metamask.io/)
+    [MetaMask Developer (Infura)](https://developer.metamask.io/key/active-endpoints)
      注册获取 。
 *   **公共节点**：可从 
     [Chainlist](https://chainlist.org/chain/11155111)
