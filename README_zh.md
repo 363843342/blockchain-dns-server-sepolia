@@ -108,7 +108,7 @@ geth account new --datadir .
     ```
     将生成的 `Contract address` 填入 `.env` 的 `CONTRACTADDR` 。
 
-    部署成功合约以后，可以把.env中的明文的私钥删除
+    部署成功合约以后，可以把.env中的明文的私钥`PRIVKEY`删除
 
 ### 3\. 注册域名与添加记录
 
