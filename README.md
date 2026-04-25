@@ -106,7 +106,7 @@ geth account new --datadir .
     ```
 4.  **Deploy:** Ensure your address has Sepolia ETH (get some from a 
     [Google Ethereum Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
-    ). Update `deploy.go` with your RPC and Private Key, then:
+    ). In /blockchain-dns-server/blockchain-contract/dnsrecord/deploy, Open and edit `deploy.go` with your `rpc` and Your own private key`privateKeyHex`, then:
     ```
     cd dnsrecord/deploy
     go run deploy.go
