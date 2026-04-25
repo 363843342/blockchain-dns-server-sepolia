@@ -134,7 +134,7 @@ cd dns-server
 go run main.go
 ```
 
-**Verify Resolution:** Open a new terminal and run:
+**Verify Resolution:** Keep the current terminal connected and open another one at the same time, run:
 
 ```
 nslookup test.com 127.0.0.1
