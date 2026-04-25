@@ -101,7 +101,7 @@ geth account new --datadir .
     ```
 4.  **执行部署**：确保钱包内有 Sepolia 测试币（可从 
     [Google Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
-     领取），然后运行 ：
+     领取）。在/blockchain-dns-server/blockchain-contract/dnsrecord/deploy打开并编辑deploy.go，将里面`rpc :`和`privateKeyHex :`改成你自己的RPC地址和私钥，然后运行 ：
     ```
     cd dnsrecord/deploy
     go run deploy.go
