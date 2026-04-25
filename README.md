@@ -113,7 +113,7 @@ geth account new --datadir .
     ```
     Save the generated **Contract Address** to `CONTRACTADDR` in `.env`.
 
-    After the contract is successfully deployed, the private key in. env can be deleted.
+    After the contract is successfully deployed, the plaintext private key in. env can be deleted.
 
 ### 3\. Register Domains & Records
 
