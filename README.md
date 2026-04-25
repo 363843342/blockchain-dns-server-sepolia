@@ -29,7 +29,7 @@ This project is a modified version of the
 You need at least **two** working Sepolia RPC links for data validation.
 
 *   **Private:** 
-    [Infura / MetaMask Developer]([https://developer.metamask.io/](https://developer.metamask.io/key/active-endpoints))
+    [Infura / MetaMask Developer](https://developer.metamask.io/key/active-endpoints)
 *   **Public:** 
     [Chainlist Sepolia](https://chainlist.org/chain/11155111)
 
