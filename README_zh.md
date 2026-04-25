@@ -1,6 +1,8 @@
 Blockchain DNS Server (Sepolia 升级版)
 ===================================
 
+[🌐 English Document](./README.md)
+
 本项目基于 
 [blockchain-dns-server](https://github.com/ayls/blockchain-dns-server)
  修改而来 。主要将原项目中已弃用的 Rinkeby 网络迁移至 **Sepolia** 测试网，并增强了安全性与功能性 。
