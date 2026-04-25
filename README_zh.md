@@ -129,7 +129,7 @@ cd dns-server
 go run main.go
 ```
 
-**测试解析**： 打开另一个终端窗口执行：
+**测试解析**： 保持当前ssh终端的同时打开另一个终端窗口执行：
 
 ```
 nslookup test.com 127.0.0.1
