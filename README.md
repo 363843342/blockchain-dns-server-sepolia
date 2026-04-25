@@ -17,7 +17,7 @@ This project is a modified version of the
 *   **Sepolia Integration:** Fully migrated from Rinkeby.
 *   **Ownership Logic:** Smart contract now includes domain owner registration and validation.
 *   **Security & Performance:** DNS service features dual RPC data comparison and a built-in DNS cache.
-*   **Deployment Tools:** Includes automated scripts for smart contract deployment.
+*   **Deployment Tools:** Includes manual scripts for smart contract deployment.
 
 * * *
 
